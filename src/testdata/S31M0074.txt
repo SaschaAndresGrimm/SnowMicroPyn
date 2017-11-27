@@ -1,0 +1,62 @@
+#Automatic written Header from SnowMicroPen .pnt binary
+#SLF Institute for Snow and Avalanche Research
+#
+##################################
+#Header:
+##################################
+Altitude [cm]   99999.0
+Amp Range [pC]  10000
+Amp Serial      5030A3 4179318
+Amp Type        <
+Battery [V]     9.99999974738e-05
+CNV Force [N/mV] 0.00131541281007
+CNV Pressure [N/bar] 6.42269151285e-05
+Calend          11308
+Calstart        11308
+Comment         
+Day             18
+Diameter [um]   5000
+Easting         A
+File Name       S31M0074
+Fix Mode        0
+Force Samples   96800
+GPS State       0
+Hand Op         0
+Hour            13
+Kistler Range [pC] 5000
+Latitude        99999.0
+Length Comment  0
+Length [mm]     1000
+Longitude       99999.0
+Loopsize        4369
+Min             44
+Month           11
+Northing        A
+Num Sats        0
+Offset [N]      0
+Overload [N]    41
+PDOP            0.0
+SMP Serial      31
+Samples Dist [mm] 0.00413223123178
+Sec             10
+Sensitivity [pC/N] 116
+Sensor Serial   9207 SN4280677
+Sensor Type     <
+Speed [mm/s]    20.0
+Temp Offset [N] -22617
+Temperature Samples 0
+Theta local     0
+Tot Samples     97556
+Version         400
+Waypoints       741092396
+X Coord         5.87747175411e-39
+X local         0
+Y Coord         5.87747175411e-39
+Y local         0
+Year            2013
+Z Coord         5.87747175411e-39
+Z local         0
+reserved 1      None
+reserved 2      None
+reserved 3      None
+reserved 4      None
